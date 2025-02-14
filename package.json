@@ -1,0 +1,15 @@
+{
+  "name": "praharshbackend",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "js"
+  ],
+  "license": "ISC",
+  "author": "praharsh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
